@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlegoAddin", "AlegoAddin\AlegoAddin.csproj", "{75B3D2A0-B1C0-4DD2-8D3B-A56E6A9A12E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlegoAddinWeb", "AlegoAddinWeb\AlegoAddinWeb.csproj", "{874E3FEE-6BBD-45EA-933D-212660B50AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B3D2A0-B1C0-4DD2-8D3B-A56E6A9A12E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B3D2A0-B1C0-4DD2-8D3B-A56E6A9A12E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B3D2A0-B1C0-4DD2-8D3B-A56E6A9A12E6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{75B3D2A0-B1C0-4DD2-8D3B-A56E6A9A12E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B3D2A0-B1C0-4DD2-8D3B-A56E6A9A12E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B3D2A0-B1C0-4DD2-8D3B-A56E6A9A12E6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{874E3FEE-6BBD-45EA-933D-212660B50AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874E3FEE-6BBD-45EA-933D-212660B50AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874E3FEE-6BBD-45EA-933D-212660B50AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874E3FEE-6BBD-45EA-933D-212660B50AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3299AB9F-09FA-4842-80C3-0A0F54041711}
+	EndGlobalSection
+EndGlobal
